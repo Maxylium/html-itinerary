@@ -1,5 +1,5 @@
 # HTML itinerary
-HTML webpage that calculates the shortest path between two points while passing checkpoints, using leaflet and OpenstreeMaps.
+HTML webpage that calculates the shortest path between two points while passing multiple checkpoints, using leaflet and OpenstreeMaps.
 this html webpage allows to get from a starting point to an endpoint, while passing checkpoints, using the shortest path possibe
 
 you can try the webpage here: https://maxylium.github.io/html-itinerary/
