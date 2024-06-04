@@ -10,4 +10,4 @@ Right click the first time to add a starting point, left click to add your check
 
 ## To Do List
 - [ ] Use google maps or bing maps instead of ops maps
-- [ ] sleep
+
